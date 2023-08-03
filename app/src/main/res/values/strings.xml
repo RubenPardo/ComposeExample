@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ComposeExample</string>
+    <string name="user_location">La distancia hasta %1$s es %2$s km</string>
+</resources>
